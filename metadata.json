@@ -1,0 +1,6 @@
+{
+  "name": "Increase height",
+  "description": "Height Increase & Posture Trainer featuring spinal decompression circuits, progress tracking, and sleep optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

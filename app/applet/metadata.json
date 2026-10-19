@@ -1,0 +1,6 @@
+{
+  "name": "Increase height",
+  "description": "Height increase workout and spine stretching exercises with animated human demonstration guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
